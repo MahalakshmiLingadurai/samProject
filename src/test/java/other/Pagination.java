@@ -39,6 +39,8 @@ ElementUtil eu = new ElementUtil(driver);
 eu.doSendKeys(username, us);
 eu.doSendKeys(password, pass);
 Thread.sleep(5000);
+System.out.println("Hi");
+System.out.println("Hello");
 
 
 
